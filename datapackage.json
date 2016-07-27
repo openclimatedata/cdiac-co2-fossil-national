@@ -1,0 +1,74 @@
+{
+  "sources": [
+    {
+      "name": "Carbon Dioxide Information Analysis Center Fossil-Fuel CO2 Emissions",
+      "web": "http://cdiac.ornl.gov/trends/emis/meth_reg.html"
+    }
+  ],
+  "resources": [
+    {
+      "name": "cdiac-fossil-fuel-cement-national",
+      "path": "data/cdiac-fossil-fuel-cement-national.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 860248,
+      "schema": {
+        "fields": [
+          {
+            "name": "Nation",
+            "type": "string",
+            "description": "Name of Country"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "description": "Year"
+          },
+          {
+            "name": "Total",
+            "type": "integer",
+            "description": "Total CO2 emissions from fossil-fuels and cement production (thousand metric tons of C)"
+          },
+          {
+            "name": "Solid-Fuel",
+            "type": "number",
+            "description": "Emissions from solid fuel consumption"
+          },
+          {
+            "name": "Liquid-Fuel",
+            "type": "number",
+            "description": "Emissions from liquid fuel consumption"
+          },
+          {
+            "name": "Gas-Fuel",
+            "type": "number",
+            "description": "Emissions from gas fuel consumption"
+          },
+          {
+            "name": "Cement",
+            "type": "integer",
+            "description": "Emissions from cement production"
+          },
+          {
+            "name": "Gas-Flaring",
+            "type": "number",
+            "description": "Emissions from gas flaring"
+          },
+          {
+            "name": "Per-Capita",
+            "type": "number",
+            "description": "Per capita CO2 emissions (metric tons of carbon)"
+          },
+          {
+            "name": "Bunkers",
+            "type": "integer",
+            "description": "Emissions from bunker fuels (not included in the totals)"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "cdiac-co2-fossil-national",
+  "title": "CDIAC National Fossil-Fuel CO₂ Emissions",
+  "description": "National CO₂ Emissions Estimates primarily derived from energy statistics"
+}
