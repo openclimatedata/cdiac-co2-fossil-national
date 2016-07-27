@@ -1,5 +1,5 @@
 National CO2 Emissions from Fossil-Fuel Burning, Cement Manufacture, and Gas
-Flaring, 1751-2013
+Flaring, 1751-2013.
 
 # Contributors
 
@@ -65,32 +65,32 @@ Andres et al. (1999).
 
 ## References
 
-    Andres, R.J., D.J. Fielding, G. Marland, T.A. Boden, and N. Kumar. 1999. Carbon dioxide emissions from fossil-fuel use, 1751-1950. Tellus 51B:759-65.
+Andres, R.J., D.J. Fielding, G. Marland, T.A. Boden, and N. Kumar. 1999. Carbon dioxide emissions from fossil-fuel use, 1751-1950. Tellus 51B:759-65.
 
-    Boden, T.A., G. Marland, and R. J. Andres. 1995. Estimates of global, regional, and national annual CO2 emissions from fossil-fuel burning, hydraulic cement production, and gas flaring: 1950-1992. ORNL/CDIAC-90, NDP-30/R6. Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee.
+Boden, T.A., G. Marland, and R. J. Andres. 1995. Estimates of global, regional, and national annual CO2 emissions from fossil-fuel burning, hydraulic cement production, and gas flaring: 1950-1992. ORNL/CDIAC-90, NDP-30/R6. Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee.
 
-    Marland, G., and R.M. Rotty. 1984. Carbon dioxide emissions from fossil fuels: A procedure for estimation and results for 1950-82. Tellus 36(B):232-61.
+Marland, G., and R.M. Rotty. 1984. Carbon dioxide emissions from fossil fuels: A procedure for estimation and results for 1950-82. Tellus 36(B):232-61.
 
-    Etemad, B., J. Luciani, P. Bairoch, and J.-C. Toutain. 1991. World Energy Production 1800-1985. Librarie DROZ, Switzerland.
+Etemad, B., J. Luciani, P. Bairoch, and J.-C. Toutain. 1991. World Energy Production 1800-1985. Librarie DROZ, Switzerland.
 
-    Mitchell, B.R. 1983. International Historical Statistics: The Americas and Australasia 1750-1988. pgs. 522-525. Gale Research Company, Detroit, United States.
+Mitchell, B.R. 1983. International Historical Statistics: The Americas and Australasia 1750-1988. pgs. 522-525. Gale Research Company, Detroit, United States.
 
-    Mitchell, B.R. 1992. International Historical Statistics: Europe 1750-1988. pgs. 465-485. Stockton Press, New York, United States.
+Mitchell, B.R. 1992. International Historical Statistics: Europe 1750-1988. pgs. 465-485. Stockton Press, New York, United States.
 
-    Mitchell, B.R. 1993. International Historical Statistics: The Americas 1750-1988. pgs. 405-414. Stockton Press, New York, United States.
+Mitchell, B.R. 1993. International Historical Statistics: The Americas 1750-1988. pgs. 405-414. Stockton Press, New York, United States.
 
-    Mitchell, B.R. 1995. International Historical Statistics: Africa, Asia and Oceania 1750-1988. pgs. 490-497. Stockton Press, New York, United States.
+Mitchell, B.R. 1995. International Historical Statistics: Africa, Asia and Oceania 1750-1988. pgs. 490-497. Stockton Press, New York, United States.
 
-    Rotty, R.M. 1974. First estimates of global flaring of natural gas. Atmospheric Environment 8:681-86.
+Rotty, R.M. 1974. First estimates of global flaring of natural gas. Atmospheric Environment 8:681-86.
 
-    United Nations. 2016. 2013 Energy Statistics Yearbook. United Nations Department for Economic and Social Information and Policy Analysis, Statistics Division, New York.
+United Nations. 2016. 2013 Energy Statistics Yearbook. United Nations Department for Economic and Social Information and Policy Analysis, Statistics Division, New York.
 
-    U.S. Department of Energy. 1994. International Energy Annual 1994. DOE/EIA-0219(91). Energy Information Administration, Office of Energy Markets and End Use, Washington, D.C.
+U.S. Department of Energy. 1994. International Energy Annual 1994. DOE/EIA-0219(91). Energy Information Administration, Office of Energy Markets and End Use, Washington, D.C.
 
-    U.S. Geological Survey. 2016. 2014 Minerals Yearbook - Cement H.G. van Oss (Ed.), U.S. Department of the Interior, U.S. Geological Survey, Reston, Virginia.
+U.S. Geological Survey. 2016. 2014 Minerals Yearbook - Cement H.G. van Oss (Ed.), U.S. Department of the Interior, U.S. Geological Survey, Reston, Virginia.
 
 
-# Citation
+# Licence
 
 The [CDIAC page](http://cdiac.ornl.gov/permission.html) states
 
@@ -98,7 +98,7 @@ The [CDIAC page](http://cdiac.ornl.gov/permission.html) states
 
 > However as a professional courtesy, we ask that the original data source be acknowledged. Suggested citations appear at the bottom of the page for each data set.
 
-Suggested citation:
+# Citation
 
 Boden, T.A., G. Marland, and R.J. Andres. 2016. Global, Regional, and National Fossil-Fuel
 CO2 Emissions. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory,
