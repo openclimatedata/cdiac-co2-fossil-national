@@ -64,9 +64,9 @@
             "type": "integer",
             "description": "Emissions from bunker fuels (not included in the totals)"
           }
-        ]
-      },
-      "primaryKey": ["Nation", "Year"]
+        ],
+        "primaryKey": ["Nation", "Year"]
+      }
     }
   ],
   "name": "cdiac-co2-fossil-national",
