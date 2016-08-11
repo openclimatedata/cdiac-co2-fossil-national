@@ -27,42 +27,50 @@
           {
             "name": "Total",
             "type": "integer",
-            "description": "Total CO2 emissions from fossil-fuels and cement production (thousand metric tons of C)"
+            "description": "Total CO2 emissions from fossil-fuels and cement production (thousand metric tons of C)",
+            "unit": "ktC"
           },
           {
             "name": "Solid-Fuel",
             "type": "number",
-            "description": "Emissions from solid fuel consumption"
+            "description": "Emissions from solid fuel consumption",
+            "unit": "ktC"
           },
           {
             "name": "Liquid-Fuel",
             "type": "number",
-            "description": "Emissions from liquid fuel consumption"
+            "description": "Emissions from liquid fuel consumption",
+            "unit": "ktC"
           },
           {
             "name": "Gas-Fuel",
             "type": "number",
-            "description": "Emissions from gas fuel consumption"
+            "description": "Emissions from gas fuel consumption",
+            "unit": "ktC"
           },
           {
             "name": "Cement",
             "type": "integer",
-            "description": "Emissions from cement production"
+            "description": "Emissions from cement production",
+            "unit": "ktC"
           },
           {
             "name": "Gas-Flaring",
             "type": "number",
-            "description": "Emissions from gas flaring"
+            "description": "Emissions from gas flaring",
+            "unit": "ktC"
           },
           {
             "name": "Per-Capita",
             "type": "number",
-            "description": "Per capita CO2 emissions (metric tons of carbon)"
+            "description": "Per capita CO2 emissions (metric tons of carbon)",
+            "unit", "tC/cap"
           },
           {
             "name": "Bunkers",
             "type": "integer",
-            "description": "Emissions from bunker fuels (not included in the totals)"
+            "description": "Emissions from bunker fuels (not included in the totals)",
+            "unit": "ktC"
           }
         ],
         "primaryKey": ["Nation", "Year"]
