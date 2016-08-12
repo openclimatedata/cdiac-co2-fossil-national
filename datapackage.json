@@ -64,7 +64,7 @@
             "name": "Per-Capita",
             "type": "number",
             "description": "Per capita CO2 emissions (metric tons of carbon)",
-            "unit", "tC/cap"
+            "unit": "tC/cap"
           },
           {
             "name": "Bunkers",
