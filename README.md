@@ -1,5 +1,5 @@
 National CO2 Emissions from Fossil-Fuel Burning, Cement Manufacture, and Gas
-Flaring, 1751-2013.
+Flaring, 1751-2014.
 
 # Contributors
 
@@ -18,7 +18,7 @@ Boone, North Carolina, 28608-2131, U.S.A.
 
 # DOI
 
-[10.3334/CDIAC/00001_V2016](https://dx.doi.org/10.3334/CDIAC/00001_V2016)
+[10.3334/CDIAC/00001_V2017](https://doi.org/10.3334/CDIAC/00001_V2017 )
 
 # Notes
 
@@ -83,12 +83,11 @@ Mitchell, B.R. 1995. International Historical Statistics: Africa, Asia and Ocean
 
 Rotty, R.M. 1974. First estimates of global flaring of natural gas. Atmospheric Environment 8:681-86.
 
-United Nations. 2016. 2013 Energy Statistics Yearbook. United Nations Department for Economic and Social Information and Policy Analysis, Statistics Division, New York.
+United Nations. 2017. 2014 Energy Statistics Yearbook. United Nations Department for Economic and Social Information and Policy Analysis, Statistics Division, New York.
 
 U.S. Department of Energy. 1994. International Energy Annual 1994. DOE/EIA-0219(91). Energy Information Administration, Office of Energy Markets and End Use, Washington, D.C.
 
-U.S. Geological Survey. 2016. 2014 Minerals Yearbook - Cement H.G. van Oss (Ed.), U.S. Department of the Interior, U.S. Geological Survey, Reston, Virginia.
-
+U.S. Geological Survey. 2017. 2014 Minerals Yearbook - Cement H.G. van Oss (Ed.), U.S. Department of the Interior, U.S. Geological Survey, Reston, Virginia.
 
 # Licence
 
@@ -100,6 +99,8 @@ The [CDIAC page](http://cdiac.ornl.gov/permission.html) states
 
 # Citation
 
-Boden, T.A., G. Marland, and R.J. Andres. 2016. Global, Regional, and National Fossil-Fuel
-CO2 Emissions. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory,
-U.S. Department of Energy, Oak Ridge, Tenn., U.S.A. doi 10.3334/CDIAC/00001_V2016
+Boden, T.A., G. Marland, and R.J. Andres. 2017. Global, Regional, and National
+Fossil-Fuel CO2 Emissions. Carbon Dioxide Information Analysis Center, Oak Ridge
+National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
+https://doi.org/10.3334/CDIAC/00001_V2017
+
